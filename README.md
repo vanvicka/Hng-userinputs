@@ -1,4 +1,4 @@
 # hng_userinputs
 
 
-![](task2.gif)
+![landing-page](https://github.com/vanvicka/Hng-userinputs/blob/master/assets/task2.gif)
